@@ -20,4 +20,4 @@ Jupyter notebook conteniendo el código python para la obtención, limpieza y ED
 
 * Presentación ejecutiva - Obtención de insights.pdf
 
-Archivo ppt con el contenido de la presentación ejecutiva obtenida a partir de los análisis realizados en el jupyter notebook.
+Archivo pdf con el contenido de la presentación ejecutiva obtenida a partir de los análisis realizados en el jupyter notebook.
