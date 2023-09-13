@@ -18,6 +18,6 @@ Entregables presentes en este repositorio:
 
 Jupyter notebook conteniendo el código python para la obtención, limpieza y EDA.
 
-* Presentación ejecutiva - Obtención de insights.pptx
+* Presentación ejecutiva - Obtención de insights.pdf
 
 Archivo ppt con el contenido de la presentación ejecutiva obtenida a partir de los análisis realizados en el jupyter notebook.
