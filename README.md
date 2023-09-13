@@ -10,4 +10,4 @@ Lo que se quiere lograr es la siguiente comparativa:
 Obtener los salarios de las franquicias campeonas y ver en que ranking de salarios están en las últimas temporadas a partir del año 2000.
 Con este insight obtenido a partir de los gráficos corresponodientes podemos tener más elementos que nos permitan reponder con más precisión la pregunta de interés.
 
-El archivo con los campeones y los subcampeones se llama nba_champs_2000s.csv
+El archivo con los campeones y los subcampeones se llama **nba_champs_2000s.csv**
