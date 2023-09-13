@@ -11,3 +11,13 @@ Obtener los salarios de las franquicias campeonas y ver en que ranking de salari
 Con este insight obtenido a partir de los gráficos corresponodientes podemos tener más elementos que nos permitan reponder con más precisión la pregunta de interés.
 
 El archivo con los campeones y los subcampeones se llama **nba_champs_2000s.csv**
+
+Entregables presentes en este repositorio:
+
+* Obtencion_insights_Nicolas_Pereira.ipynb  
+
+Jupyter notebook conteniendo el código python para la obtención, limpieza y EDA.
+
+* Presentación ejecutiva - Obtención de insights.pptx
+
+Archivo ppt con el contenido de la presentación ejecutiva obtenida a partir de los análisis realizados en el jupyter notebook.
