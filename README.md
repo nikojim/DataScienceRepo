@@ -14,10 +14,10 @@ El archivo con los campeones y los subcampeones se llama **nba_champs_2000s.csv*
 
 Entregables presentes en este repositorio:
 
-* Obtencion_insights_Nicolas_Pereira.ipynb  
+* **Obtencion_insights_Nicolas_Pereira.ipynb**  
 
 Jupyter notebook conteniendo el código python para la obtención, limpieza y EDA.
 
-* Presentación ejecutiva - Obtención de insights.pdf
+* **Presentación ejecutiva - Obtención de insights.pdf**
 
 Archivo pdf con el contenido de la presentación ejecutiva obtenida a partir de los análisis realizados en el jupyter notebook.
