@@ -1,0 +1,25 @@
+year;season;champion;champion_short;runner;runner_short
+2022;2022-23;Denver;DEN;Miami;MIA
+2021;2021-22;Golden State;GSW;Boston;BOS
+2020;2020-21;Milwaukee;MIL;Phoenix;PHO
+2019;2019-20;LA Lakers;LAL;Miami;MIA
+2018;2018-19;Toronto;TOR;Golden State;GSW
+2017;2017-18;Golden State;GSW;Cleveland;CLE
+2016;2016-17;Golden State;GSW;Cleveland;CLE
+2015;2015-16;Cleveland;CLE;Golden;GSW
+2014;2014-15;Golden State;GSW;Cleveland;CLE
+2013;2013-14;San Antonio;SAS;Miami;MIA
+2012;2012-13;Miami;MIA;San Antonio;SAS
+2011;2011-12;Miami;MIA;Oklahoma;OKC
+2010;2010-11;Dallas;DAL;Miami;MIA
+2009;2009-10;LA Lakers;LAL;Boston;BOS
+2008;2008-09;LA Lakers;LAL;Orlando;ORL
+2007;2007-08;Boston;BOS;LA Lakers;LAL
+2006;2006-07;San Antonio;SAS;Cleveland;CLE
+2005;2005-06;Miami;MIA;Dallas;DAL
+2004;2004-05;San Antonio;SAS;Detroit;DET
+2003;2003-04;Detroit;DET;LA Lakers;LAL
+2002;2002-03;San Antonio;SAS;New Jersey;NYN
+2001;2001-02;LA Lakers;LAL;New Jersey;NYN
+2000;2000-01;LA Lakers;LAL;Philadelphia;PHI
+1999;1999-00;LA Lakers;LAL;Indiana;IND
