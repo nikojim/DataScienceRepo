@@ -1,6 +1,6 @@
 # Repositorio Data Science CoderHouse 
 ## Autor: Nicolás Pereira
-## Obtención de insights
+## Entregable Obtención de insights
 
 En este entregable se va a seguir trabajando con la pregunta de interés sobre los salarios y los logros en las últimas temporadas de la NBA.
 Para ir enriqueciendo el entregable se va a realizar la carga de un nuevo archivo con los campeones a partir del 2000 de la NBA.
