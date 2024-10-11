@@ -1,4 +1,4 @@
-# Repositorio Data Science CoderHouse 
+# Repositorio Data Science  
 ## Autor: Nicolás Pereira
 ## Entregable Obtención de insights
 
